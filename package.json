@@ -1,0 +1,39 @@
+{
+  "name": "mcp-quick-calc",
+  "version": "1.0.2",
+  "description": "MCP server providing calculator tools \u2014 currency conversion, percentages, compound interest, unit conversions, and loan payments",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mcp-quick-calc": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "calculator",
+    "currency",
+    "finance",
+    "model-context-protocol",
+    "claude",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/gl89tu25lp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlteoh37/mcp-quick-calc.git"
+  },
+  "homepage": "https://github.com/hlteoh37/mcp-quick-calc#readme",
+  "bugs": {
+    "url": "https://github.com/hlteoh37/mcp-quick-calc/issues"
+  }
+}
