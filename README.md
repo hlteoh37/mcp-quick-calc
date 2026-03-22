@@ -40,6 +40,10 @@ If this tool saves you time, consider supporting development:
 - [Buy me a coffee](https://buymeacoffee.com/gl89tu25lp)
 - [Tip via Stripe ($3)](https://buy.stripe.com/dRm8wP8R295Z9VyeN59Zm00)
 
+## Like this? Try mcp-devutils
+
+**[mcp-devutils](https://www.npmjs.com/package/mcp-devutils)** — 44 developer tools in one MCP server. UUID, hash, JWT, JSON diff, AES encryption, and more. 15 free, [unlock all 44 for $5](https://buy.stripe.com/bJe00jgjugyr5Fi5cv9Zm05).
+
 ## License
 
 MIT

@@ -1,7 +1,7 @@
 {
   "name": "mcp-quick-calc",
-  "version": "1.0.3",
-  "description": "MCP server providing calculator tools \u2014 currency conversion, percentages, compound interest, unit conversions, and loan payments",
+  "version": "1.0.4",
+  "description": "MCP server providing calculator tools — currency conversion, percentages, compound interest, unit conversions, and loan payments",
   "main": "index.js",
   "type": "module",
   "bin": {
